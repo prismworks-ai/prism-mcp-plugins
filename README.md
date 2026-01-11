@@ -26,8 +26,8 @@ This repository contains:
 - Rust 1.85+ (for Rust plugins)
 - Python 3.8+ (for Python plugins)
 - Node.js 18+ (for JavaScript plugins)
-- [MCP Protocol SDK](https://github.com/prismworks-ai/mcp-protocol-sdk)
-- [MCP Enterprise](https://github.com/prismworks-ai/mcp-enterprise) (for advanced features)
+- [Prism MCP SDK](https://github.com/prismworks-ai/prism-mcp-rs)
+- [Prism Platform](https://github.com/prismworks-ai/prism-platform) (for advanced features)
 
 ### Using an Example Plugin
 
@@ -447,9 +447,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 ## 🔗 Resources
 
 ### Related Projects
-- [MCP Protocol SDK](https://github.com/prismworks-ai/mcp-protocol-sdk) - Core SDK
-- [MCP Enterprise](https://github.com/prismworks-ai/mcp-enterprise) - Enterprise features
-- [MCP CLI](https://github.com/prismworks-ai/mcp-cli) - Developer tools
+- [Prism MCP SDK](https://github.com/prismworks-ai/prism-mcp-rs) - Core SDK
+- [Prism Platform](https://github.com/prismworks-ai/prism-platform) - Enterprise features
+- [Prism MCP Tools](https://github.com/prismworks-ai/prism-mcp-tools) - Developer tools
 
 ### External Resources
 - [MCP Specification](https://modelcontextprotocol.io/docs)
@@ -510,7 +510,7 @@ For advanced features including SSO, SAML, monitoring, compliance tools, and aut
 
 - 📚 **[Documentation](https://docs.prismworks.ai)** - Comprehensive guides and API references
 - 💬 **[Discord Community](https://discord.gg/mcp-community)** - Get help and share ideas
-- 🐛 **[Issue Tracker](https://github.com/prismworks-ai/mcp-protocol-sdk/issues)** - Report bugs and request features
+- 🐛 **[Issue Tracker](https://github.com/prismworks-ai/prism-mcp-rs/issues)** - Report bugs and request features
 - 📖 **[Blog](https://blog.prismworks.ai)** - Tutorials and announcements
 - 💼 **[Professional Support](https://prismworks.ai/support)** - Enterprise support options
 
@@ -534,4 +534,3 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### License
 
 This project's license information is available in the [LICENSE](LICENSE) file.
-
